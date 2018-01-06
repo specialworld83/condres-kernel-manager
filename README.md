@@ -1,5 +1,5 @@
-# AKI
-Antergos Kernel Installer
+# CKI
+Condres Kernel Installer
 
 ## Official packages
 
